@@ -42,12 +42,15 @@ Link 🔗 - https://dhyeythummar09.github.io/dhyeythummar09.github.io
 ---
 
 ## 📁 Project Structure
+
+<pre>
 ├── index.html      # Main HTML page
 ├── cv.pdf          # My CV
 ├── styles.css      # Website styling
 ├── script.js       # JavaScript logic for interactivity & analysis
 ├── /images/
-│ ├── profile_pic.jpg       # Profile picture
-│ └── vad_img1.webp         # Local images from my birthplace
-| └── vad_img2.jpg          # Local images from my birthplace
-└── README.txt              # Project documentation (this file)
+│   ├── profile_pic.jpg       # Profile picture
+│   ├── vad_img1.webp         # Local images from my birthplace
+│   └── vad_img2.jpg          # Local images from my birthplace
+└── README.md       # Project documentation (this file)
+</pre>
